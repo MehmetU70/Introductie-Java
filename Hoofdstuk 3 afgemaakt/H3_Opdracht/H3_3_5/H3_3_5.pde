@@ -1,0 +1,13 @@
+size(200, 200);
+background(255);
+fill(255, 220, 180);
+ellipse(100, 100, 120, 120);
+fill(0);
+ellipse(80, 85, 10, 10);
+ellipse(120, 85, 10, 10);
+noFill();
+stroke(0);
+arc(100, 115, 50, 30, 0, PI);
+noFill();
+arc(80, 75, 20, 10, PI, TWO_PI);
+arc(120, 75, 20, 10, PI, TWO_PI);
